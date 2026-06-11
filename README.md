@@ -16,7 +16,7 @@ I/O — drop it next to whatever transport you already have.
 - **PDU helpers** — build & parse read requests (FC 0x01–0x04), parse register
   responses (FC 0x03/0x04), and detect exception responses + codes.
 
-## Use it
+## Usage
 
 ```cpp
 #include <modbus/modbus.hpp>
